@@ -1,4 +1,4 @@
-# Capstone Project Module 2 - Telco Customer Churn Prediction
+# Capstone Project Module 3 - Telco Customer Churn Prediction
 ### Oleh: Suluh Bagaspati
 Perusahaan telekomunikasi memiliki model bisnis berbasis subscription (pelanggan membayar secara berkala untuk menggunakan layanan). Salah satu tantangan utama dalam industri ini adalah churn, yaitu pelanggan memutuskan untuk berhenti berlangganan dan pindah ke kompetitor. Setiap kali churn terjadi:
 1. Perusahaan kehilangan pendapatan bulanan dari pelanggan tersebut.
