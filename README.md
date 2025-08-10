@@ -10,4 +10,13 @@ Oleh karena itu dibutuhkan model prediksi churn berbasis machine learning agar p
 Menjelaskan permasalahan bisnis yang akan diselesaikan, tujuan pemodelan machine learning, pendekatan analisis yang dilakukan, dan metrik yang digunakan untuk evaluasi pemodelan.
 #### 2. Data Understanding
 Menjelaskan makna dari kolom-kolom di dataset yang nantinya akan digunakan untuk pemodelan.
-#### 3.
+#### 3. Data Cleaning
+Dilakukan pengecekan duplikat, outlier & missing value serta melakukan transformasi data.
+#### 4. Feature Selection.
+Pengecekan fitur yang akan digunakan dan pengecekan imbalance dari target.
+#### 5. Feature Engineering
+Melakukan encoding dan scaling pada fitur yang akan digunakan untuk modelling.
+#### 6. Modelling
+Melakukan pemilihan model, melakukan imbalance handling pada model terpilih, melakukan hyperparameter tuning pada model terpilih, dan evaluasi model terbaik. Tahap ini berdasarkan metric yang telah ditentukan.
+#### 7. Conclusion and Recommendation
+Memberikan kesimpulan yang menjawab tujuan dari project dan memberikan rekomendasi untuk meningkatkan model agar lebih baik.
